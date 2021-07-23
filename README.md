@@ -25,9 +25,9 @@ The commission could also find the percent turnout for the three counties. Doing
 
 For this example, let's assume we only have the total eligible voters of all three counties combined. Once we had the required information, finding the percent turnout would only involve adding a few steps to the script.
 
-The first would be creating a new variable called total_population = #A number
+The first would be creating a new variable called `total_population = #A number`
 
-Then we would create a new varible called percent_turnout = total_votes / total_population * 100
+Then we would create a new varible called `percent_turnout = total_votes / total_population * 100`
 Adding this variable to our results would look like the following.
 ```
 election_results = (
